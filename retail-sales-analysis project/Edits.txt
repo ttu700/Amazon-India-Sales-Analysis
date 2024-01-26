@@ -1,0 +1,7 @@
+- Removed unnamed column
+- Filled in missing values to unknown in column "Courier Status". The states can be either shipped/cancelled/unshipped so it is likely that the missing data is unknown or lost
+- Filled in missing values to No promotion in column "promotion-ids" 
+- Filled in missing values to Default Ship in column "fulfilled-by"
+- Added a Conditional Column to filter out currency: If sales channel is from amazon, currency will be in INR, If sales channel is not from amazon it will be an unknown currency
+- convert INR to USD (1 INR = 0.012 USD)
+- Removed duplicates 
