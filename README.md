@@ -29,7 +29,7 @@ This dataset provides an in-depth look at the profitability of e-commerce sales.
 3. **Total items Sold**
 4. **Top Sales by States**
 
-![gif](https://github.com/ttu700/Amazon-India-Sales-Analysis/assets/68859758/4f6b7f4e-9ee1-4d8b-95d4-0f4aeb6c1c73)
+![gif](https://github.com/ttu700/Amazon-India-Sales-Analysis/blob/main/showcase.gif)
 
 
 
